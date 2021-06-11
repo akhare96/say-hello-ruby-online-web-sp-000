@@ -5,6 +5,4 @@ def say_hello(name="Ruby Programmer")
   puts "Hello #{name}!"
 end
 
-say_hello(Ambar)
-
-say_hello
+#say_hello(Ambar) will print Hello Ambar! and say_hello will print Hello Ruby Programmer!
